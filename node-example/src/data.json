@@ -1,0 +1,13 @@
+[{
+    "id":1,
+    "nombre":"Abel Gonzales",
+    "edad":32,
+    "correo": "agonzales@inlearning.edu.pe"
+},
+{
+    "id":2,
+    "nombre":"Christopher Cardenas",
+    "edad":27,
+    "correo": "ccardenas@inlearning.edu.pe"
+}
+]
