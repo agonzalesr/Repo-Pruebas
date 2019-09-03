@@ -1,2 +1,3 @@
 # Repo-Pruebas
-Primer repositorio de prueba
+Creando servicios con Node JS sobre un archivo .json
+GET,POST,DELETE,PUT
